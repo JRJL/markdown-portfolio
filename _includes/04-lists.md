@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. aprender cosas nuevas
+2. andar el snowboard
+  - antillanca
+  - portillo
+  - valle nevado  
